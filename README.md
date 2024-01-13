@@ -1,6 +1,5 @@
 
-**#Project Description 
-
+# Description 
 The OpenAI GPT API in Azure facilitates chat-based interactions, enabling developers to seamlessly integrate natural language processing into applications. By submitting a series of messages with assigned roles (system, user, or assistant), the API generates contextually relevant responses. Leveraging OpenAI GPT's powerful language models, this API serves as a versatile tool for creating chatbots, virtual assistants, and interactive conversational applications, offering a dynamic and efficient approach to natural language understanding and generation within the Azure ecosystem.
 
 
